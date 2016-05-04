@@ -9,19 +9,13 @@ https://tensorflowkorea.wordpress.com/2015/12/04/%ED%85%90%EC%84%9C%ED%94%8C%EB%
 
 
 # Prepare
-
-sudo apt install python-pip python-dev
-sudo pip install --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.8.0-cp27-none-linux_x86_64.whl
-
-sudo pip install numpy
+* sudo apt install python-pip python-dev
+* sudo pip install --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.8.0-cp27-none-linux_x86_64.whl
+* sudo pip install numpy
 
 ## Install matplotlib
-sudo apt install python-matplotlib
+* sudo apt install python-matplotlib
 
 refer http://freeprog.tistory.com/63
-sudo apt install libpng12-dev libfreetype6-dev libjpeg8-dev
-
-
-
-
-sudo apt install libblas-dev liblapack-dev
+* sudo apt install libpng12-dev libfreetype6-dev libjpeg8-dev
+* sudo apt install libblas-dev liblapack-dev
